@@ -26,5 +26,9 @@ public class Main {
         {
             System.out.println("Dit svar er " + (a-b));
         }
+        if (op.equals("*")){
+            System.out.println("Dit svar er " + (a*b));
+        }
+
     }
 }
