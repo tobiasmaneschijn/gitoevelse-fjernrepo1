@@ -18,7 +18,7 @@ public class Main {
 
         if (op.equals("+"))
         {
-            System.out.println("Dit svar er " + (a * b));
+            System.out.println("Dit svar er " + (a + b));
 
 
         }
